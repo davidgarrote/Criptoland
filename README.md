@@ -1,4 +1,4 @@
-# lecture0
+# Criptutor
 
 Criptutor is a platform for people who is interested in trading cryptocurrencies.
 
