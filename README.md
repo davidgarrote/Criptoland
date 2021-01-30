@@ -12,6 +12,5 @@ There is an unordered list enumerating the qualities of our service of trading, 
 The website uses multiple stylesheets with several css properties including classes and ID’s
 The website includes 3 different @media queries for 3 different kinds of screen devices: standard, 800 pixels and 600 pixels.
 Bootstrap has been used in the success stories page where I have included 2 column tables using Bootstrap’s grid model
-Even thought it wasn’t easy I have managed to use a SCSS variable, one SCSS nesting and used one SCSS inheritance
+Even thought it wasn’t easy at first I have managed to use a SCSS variable, one SCSS nesting and used one SCSS inheritance
 
-Thank you CS50! 
