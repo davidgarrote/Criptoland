@@ -1,6 +1,6 @@
-# Criptutor
+# Criptoland
 
-Criptutor is a platform for people who is interested in trading cryptocurrencies.
+Criptoland is a platform for people who is interested in trading cryptocurrencies.
 
 It contains 4 different pages: index, trading, success stories and contact. All the links work on all the pages and redirect to the correct html page
 
